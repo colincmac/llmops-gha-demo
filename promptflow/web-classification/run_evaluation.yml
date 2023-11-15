@@ -11,8 +11,8 @@ runtime: openai-hackathon
 
 connections:
   classify_with_llm:
-    connection: Default_AzureOpenAI
-    deployment_name: gpt-35-turbo-0301
+    connection: cmccullough-openai
+    deployment_name: chat-34-turbo
   summarize_text_content:
-    connection: Default_AzureOpenAI
-    deployment_name: gpt-35-turbo-0301
+    connection: cmccullough-openai
+    deployment_name: chat-34-turbo
